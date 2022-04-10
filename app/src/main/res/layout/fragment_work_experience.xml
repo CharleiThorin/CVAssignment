@@ -68,7 +68,7 @@
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:id="@+id/company_logo1"
-            android:src="@drawable/facebook_logo"/>
+            android:src="@drawable/fedex"/>
         <LinearLayout
             android:id="@+id/linear_layout1"
             android:layout_width="match_parent"
