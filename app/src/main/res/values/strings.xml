@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CurriculumVitae</string>
+    <string name="skills">Skills</string>
+    <string name="sign_in">Sign into your account</string>
+    <string name="sign_on">Sign in</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email_address_required">Email address (required)</string>
+    <string name="password_required">Password (required)</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="create_account">Create your account</string>
+    <string name="required_field">* required field</string>
+    <string name="first_name">First name *</string>
+    <string name="last_name">Last name *</string>
+    <string name="email_address">Email Address *</string>
+    <string name="password">Password *</string>
+    <string name="create_user_account">Create Account</string>
+    <string name="electronics">Electronics</string>
+    <string name="clothing">Clothing</string>
+    <string name="food">Food</string>
+    <string name="beauty">Beauty</string>
+    <string name="todo">TODO</string>
+    <string name="categories_desc">Shop by categories</string>
+    <string name="fb">-> I was brought onto this project because of the success on my previous project. \n-> I am responsible for providing the same standard of leadership and work ethic like on my previous project such as completing coding tasks with spring boot and other technologies, doing code reviews on PRs, writing unit test and Integration test and researching new ways of solving client challenges</string>
+    <string name="fedex">• Designed and built various micro services and APIs using Java Spring boot,cloud, Eureka and Zuul.\n • Wrote system test cases using junit and Mockito and implemented team-wide code review. \n • Created quality control processes and tests for microservices. • Developed and tested multiple RESTful APIs to ensure meeting standards before deployment. • Participated in pair programming sessions to build token-based authentication system in Golang. • Designed and produced unit tests for sprint teams to ensure bug-free code. • Aided the front-end team in designing and building a responsive UI for large screens and mobile devises with technologies such as ReactJs, JSON, Html5. • Implemented Commission Tracking module to monitor commissions for microfinance agents.</string>
+    <string name="exp">Java Developer (21 years)</string>
+    <string name="about_me">Excellent application developer and technologist with 7+ years of experience building cutting-edge e-commerce solutions. Proven ability to leverage full-stack knowledge and experience to build interactive, user-centric web, desktop, and database applications following the full Agile Methodologies. Strong skills in back-end development, troubleshooting, and analysis, with expertise in system architecture design as well as modern technologies such as Java, Spring, microservices, Python, JavaScript, React, REST, Git, and more</string>
+</resources>
